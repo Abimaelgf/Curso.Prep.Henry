@@ -1,0 +1,30 @@
+      /*asignacion de estilos estilos de bordes
+        solid: con línea continua (valor por defecto)
+        dotted: línea punteada-->
+        dashed: línea discontinua (segmentos cortos de línea)
+        inset: línea con el color en bajorelieve
+        outset: línea que simula el relieve*/
+h1{
+    color: chartreuse;    
+}
+img{
+    
+    width: 400px;   
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: lightcoral;
+    padding: 50px;
+    border: 10px inset purple;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass{
+    margin: 50px;
+    padding: 20px;
+    border: 10px dotted #25ec7f;
+
+}
